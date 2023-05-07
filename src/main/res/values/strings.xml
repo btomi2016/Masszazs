@@ -1,0 +1,15 @@
+<resources>
+    <string name="username_hint">Username</string>
+    <string name="password_hint">Password</string>
+    <string name="email_hint">E-mail address</string>
+    <string name="sign_in_button">Sign In</string>
+    <string name="username_label">Felhasználónév</string>
+    <string name="password_label">Jelszó</string>
+    <string name="name_label">Name:</string>
+    <string name="register_button_text">Regisztráció</string>
+    <string name="email_label">E-mail cím</string>
+    <string name="sign_out">Kijelentkezés</string>
+    <string name="time_hint">Time</string>
+    <string name="book_button_text">Foglalás</string>
+    <string name="app_name">MasszázsKuckó</string>
+</resources>

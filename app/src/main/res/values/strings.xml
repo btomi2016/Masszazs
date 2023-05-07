@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Masszazs</string>
+    <string name="username_hint">Felhasználónév</string>
+    <string name="password_hint">Jelszó</string>
+    <string name="email_hint">E-mail cím</string>
+    <string name="sign_in_button">Bejelentkezés</string>
+    <string name="username_label">Felhasználónév</string>
+    <string name="password_label">Jelszó</string>
+    <string name="name_label">Név:</string>
+    <string name="register_button_text">Regisztráció</string>
+    <string name="email_label">E-mail cím</string>
+
+    <string name="time_hint">Idő</string>
+    <string name="book_button_text">Foglalás</string>
+    <string name="register">Regisztráció</string>
+    <string name="time_label">Idő</string>
+    <string name="date_label">Dátum</string>
+    <string name="welcome_message">Üdv a Masszázs Kuckó applikációban!</string>
+    <string name="confirm_button_text">Megerősítés</string>
+    <string name="username_placeholder">Bejelentkezve mint:</string>
+    <string name="bookings_placeholder">Foglalások:</string>
+    <string name="cancel_booking_button_text">Foglalás törlése</string>
+    <string name="logout_button_text">Kijelentkezés</string>
+</resources>
