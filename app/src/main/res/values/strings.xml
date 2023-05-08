@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Masszazs</string>
+    <string name="app_name">Masszázs Kuckó</string>
     <string name="username_hint">Felhasználónév</string>
     <string name="password_hint">Jelszó</string>
     <string name="email_hint">E-mail cím</string>

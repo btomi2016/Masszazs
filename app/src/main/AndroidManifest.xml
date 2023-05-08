@@ -27,19 +27,19 @@
 
         <activity
             android:name=".BookingActivity"
-            android:label="Foglalj időpontot" />
+            android:label="Időpontfoglalás" />
 
         <activity
             android:name=".LoginActivity"
-            android:label="Jelentkezz be" />
+            android:label="Bejelentkezés" />
 
         <activity
             android:name=".ProfileActivity"
-            android:label="Profil" />
+            android:label="Időpontjaim" />
 
         <activity
             android:name=".RegistrationActivity"
-            android:label="Regisztrálj" />
+            android:label="Regisztráció" />
 
     </application>
 
